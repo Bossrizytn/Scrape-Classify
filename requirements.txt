@@ -3,3 +3,4 @@ pandas
 transformers
 requests
 beautifulsoup4
+torch
