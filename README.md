@@ -11,7 +11,7 @@ This Streamlit app performs **zero-shot classification** using Hugging Face's `t
 
 ## Demo
 
-- **[Live App Link]([https://scrape-classify.streamlit.app/)**
+- **[Live App Link](https://scrape-classify.streamlit.app/)**
 
 ## How to Use
 
