@@ -10,7 +10,7 @@ def scrape_website(url, limit=500):
         response = requests.get(url)
         if response.status_code == 200:
             soup = BeautifulSoup(response.content, 'html.parser')
-            # Extract the text content from the website (you can modify this to target specific tags)
+            # Extralilllict the text content from the website (you can modify this to target specific tags)
             text = soup.get_text()
             # Limit the text content
             return text[:limit]
