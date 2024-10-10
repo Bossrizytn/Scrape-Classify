@@ -33,8 +33,3 @@ This Streamlit app performs **zero-shot classification** using Hugging Face's `t
 - Python 3.7 or higher
 - Git
 
-### 1. Clone the repository
-
-```bash
-git clone https://github.com/your-username/your-repo-name.git
-cd your-repo-name
